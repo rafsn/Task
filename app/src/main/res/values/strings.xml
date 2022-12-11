@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="txt_titulo">Task</string>
+    <string name="txt_sun">Sun\n10</string>
+    <string name="txt_mon">Mon\n11</string>
+    <string name="txt_tue">Tue\n12</string>
+    <string name="txt_wed">Wed\n13</string>
+    <string name="txt_thu">Thu\n14</string>
+    <string name="txt_fri">Fri\n15</string>
+    <string name="txt_sat">Sat\n16</string>
+</resources>
